@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86746183354",
+    "project_id": "interapp2-8adce",
+    "storage_bucket": "interapp2-8adce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86746183354:android:d377fd9b39c7d5c684f483",
+        "android_client_info": {
+          "package_name": "com.example.interapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86746183354-ivbgq6dh8gudqpvfq758afbnnuqaqaoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLBC_oEv8kzzJYryH-CXMUdGupaP1ByS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86746183354-ivbgq6dh8gudqpvfq758afbnnuqaqaoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
